@@ -57,7 +57,7 @@ figcaption {
 
 }
 
-.medium-fade{
+.medium-fade {
   background: rgb(229,229,229); /* Old browsers */
   background: -moz-linear-gradient(top,  rgba(229,229,229,1) 0%, rgba(255,255,255,1) 99%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(229,229,229,1)), color-stop(99%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
